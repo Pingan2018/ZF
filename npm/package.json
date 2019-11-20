@@ -1,0 +1,26 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "test": "./bin/www"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pingan2018/ZF.git"
+  },
+  "author": "yas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pingan2018/ZF/issues"
+  },
+  "homepage": "https://github.com/Pingan2018/ZF#readme",
+  "dependencies": {
+    "is-wsl": "^2.1.1",
+    "lodash-es": "^4.17.15"
+  }
+}
